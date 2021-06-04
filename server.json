@@ -7,6 +7,22 @@
       "description": "Arroz, Feijão, Bife e fritas",
       "available": true,
       "id": 1
+    },
+    {
+      "image": "https://vamosviajarpraondeagora.com.br/wp-content/uploads/2020/10/pizza-margherita-600x600-1.jpg",
+      "name": "Pizza Marguerita",
+      "price": "32.50",
+      "description": "Pizza Margerita, quieijo muzzarela e marguerita",
+      "available": true,
+      "id": 2
+    },
+    {
+      "image": "https://culinaria.culturamix.com/blog/wp-content/gallery/italia-3/pizza.jpg",
+      "name": "Pizza Moda da Casa",
+      "price": "19.90",
+      "description": "Pizza Moda da Casa",
+      "available": true,
+      "id": 3
     }
   ]
 }
